@@ -4,7 +4,7 @@ All projects here are from my practices during my self-study course of Python co
 
 At the end of each day, there will be a project to practice on something we have learnt.
 
-Project starting date: 18 March 2021
+**Project starting date:** 18 March 2021
 
 **Day 01 - Band Name Generator:**
 
