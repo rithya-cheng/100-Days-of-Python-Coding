@@ -21,3 +21,7 @@ A treasure island game. Now use your intuition, decide for a choice and see if y
 Day 04 - Rock, Paper, Scissors:
 
 A Traditional rock, paper, scissors game. But now, you play with the program system. You choose a choice rock, paper or scissor. See if you can win this game.
+
+Day 05 - Password Generator:
+
+A Program that generate password for you. You can choose your own random password by input how many characters you want to have in letters, symbols and numbers. Then, the program will generate a random password for you.
