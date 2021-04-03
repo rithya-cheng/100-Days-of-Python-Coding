@@ -25,3 +25,8 @@ A Traditional rock, paper, scissors game. But now, you play with the program sys
 **Day 05 - Password Generator:**
 
 A Program that generate password for you. You can choose your own random password by input how many characters you want to have in letters, symbols and numbers. Then, the program will generate a random password for you.
+
+**Day 06 - Lost in Maze**
+
+Reeborg was exploring a dark maze and the battery in its flashlight ran out.
+link to the game: [link](https://www.reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json)
